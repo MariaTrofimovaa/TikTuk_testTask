@@ -6,7 +6,7 @@ const instance = axios.create({
   withCredentials: true,
   headers: {
     "x-rapidapi-host": "tiktok33.p.rapidapi.com",
-    "x-rapidapi-key": "197e6787admsh024cf7883c37861p1ab9a8jsnf41b6aa83868",
+    "x-rapidapi-key": "98c48d70edmsh2b6af9661af19a5p11b7f7jsnbe8317f49551",
   },
 });
 
