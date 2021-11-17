@@ -1,0 +1,18 @@
+.header {
+  display: flex;
+  padding: 20px 40px;
+  align-items: baseline;
+  border-bottom: 2px solid rgb(233, 224, 224);
+  justify-content: space-between;
+}
+
+.link {
+  display: inline-block;
+  text-decoration: none;
+  text-align: center;
+  padding: 20px;
+  text-transform: uppercase;
+  font-size: 50px;
+  font-weight: 700;
+  color: #2a363b;
+}
