@@ -1,0 +1,33 @@
+{
+  "files": {
+    "static/css/0.fe79023c.chunk.css": "/MariaTrofimovaa/TikTuk_testTask/static/css/0.fe79023c.chunk.css",
+    "static/js/0.e56f955f.chunk.js": "/MariaTrofimovaa/TikTuk_testTask/static/js/0.e56f955f.chunk.js",
+    "static/js/0.e56f955f.chunk.js.map": "/MariaTrofimovaa/TikTuk_testTask/static/js/0.e56f955f.chunk.js.map",
+    "main.css": "/MariaTrofimovaa/TikTuk_testTask/static/css/main.0314e7f4.chunk.css",
+    "main.js": "/MariaTrofimovaa/TikTuk_testTask/static/js/main.ded7a364.chunk.js",
+    "main.js.map": "/MariaTrofimovaa/TikTuk_testTask/static/js/main.ded7a364.chunk.js.map",
+    "runtime-main.js": "/MariaTrofimovaa/TikTuk_testTask/static/js/runtime-main.78917aab.js",
+    "runtime-main.js.map": "/MariaTrofimovaa/TikTuk_testTask/static/js/runtime-main.78917aab.js.map",
+    "static/js/3.773f285d.chunk.js": "/MariaTrofimovaa/TikTuk_testTask/static/js/3.773f285d.chunk.js",
+    "static/js/3.773f285d.chunk.js.map": "/MariaTrofimovaa/TikTuk_testTask/static/js/3.773f285d.chunk.js.map",
+    "static/css/4.aaa7dc68.chunk.css": "/MariaTrofimovaa/TikTuk_testTask/static/css/4.aaa7dc68.chunk.css",
+    "static/js/4.d957046c.chunk.js": "/MariaTrofimovaa/TikTuk_testTask/static/js/4.d957046c.chunk.js",
+    "static/js/4.d957046c.chunk.js.map": "/MariaTrofimovaa/TikTuk_testTask/static/js/4.d957046c.chunk.js.map",
+    "static/css/5.ef009bdc.chunk.css": "/MariaTrofimovaa/TikTuk_testTask/static/css/5.ef009bdc.chunk.css",
+    "static/js/5.179dfab1.chunk.js": "/MariaTrofimovaa/TikTuk_testTask/static/js/5.179dfab1.chunk.js",
+    "static/js/5.179dfab1.chunk.js.map": "/MariaTrofimovaa/TikTuk_testTask/static/js/5.179dfab1.chunk.js.map",
+    "index.html": "/MariaTrofimovaa/TikTuk_testTask/index.html",
+    "static/css/0.fe79023c.chunk.css.map": "/MariaTrofimovaa/TikTuk_testTask/static/css/0.fe79023c.chunk.css.map",
+    "static/css/4.aaa7dc68.chunk.css.map": "/MariaTrofimovaa/TikTuk_testTask/static/css/4.aaa7dc68.chunk.css.map",
+    "static/css/5.ef009bdc.chunk.css.map": "/MariaTrofimovaa/TikTuk_testTask/static/css/5.ef009bdc.chunk.css.map",
+    "static/css/main.0314e7f4.chunk.css.map": "/MariaTrofimovaa/TikTuk_testTask/static/css/main.0314e7f4.chunk.css.map",
+    "static/js/3.773f285d.chunk.js.LICENSE.txt": "/MariaTrofimovaa/TikTuk_testTask/static/js/3.773f285d.chunk.js.LICENSE.txt",
+    "static/media/avatar.png": "/MariaTrofimovaa/TikTuk_testTask/static/media/avatar.9dbf4970.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78917aab.js",
+    "static/js/3.773f285d.chunk.js",
+    "static/css/main.0314e7f4.chunk.css",
+    "static/js/main.ded7a364.chunk.js"
+  ]
+}
